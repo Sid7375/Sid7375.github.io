@@ -2224,7 +2224,7 @@ function Pitch() {
           "x-component": "p",
           "x-id": "Pitch_9_20",
           "x-dynamic": "false",
-          children: "The Pitch \u2014 Why Growth"
+          children: "The Pitch \u2014 Why Customer Success"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 9,
@@ -2247,51 +2247,8 @@ function Pitch() {
             "x-dynamic": "true",
             "x-source-type": "unknown",
             "x-source-editable": "false",
-            children: ["Growth interests me because it brings together the things I've naturally found myself doing across different roles: understanding people, spotting opportunities, figuring out", /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("span", {
-              "data-ve-dynamic": "true",
-              "x-excluded": "true",
-              style: {
-                display: "contents"
-              },
-              "x-file-name": "Pitch",
-              "x-line-number": "11",
-              "x-column": "24",
-              "x-component": "p",
-              "x-id": "Pitch_11_24_expr1",
-              "x-dynamic": "true",
-              "x-source-type": "unknown",
-              "x-source-editable": "false",
-              children: " "
-            }, void 0, false), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("span", {
-              className: "bg-highlight px-1 not-italic",
-              "x-file-name": "Pitch",
-              "x-line-number": "15",
-              "x-column": "28",
-              "x-component": "span",
-              "x-id": "Pitch_15_28",
-              "x-dynamic": "false",
-              children: "what isn't working"
-            }, void 0, false, {
-              fileName: _jsxFileName,
-              lineNumber: 15,
-              columnNumber: 29
-            }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("span", {
-              "data-ve-dynamic": "true",
-              "x-excluded": "true",
-              style: {
-                display: "contents"
-              },
-              "x-file-name": "Pitch",
-              "x-line-number": "11",
-              "x-column": "24",
-              "x-component": "p",
-              "x-id": "Pitch_11_24_expr4",
-              "x-dynamic": "true",
-              "x-source-type": "unknown",
-              "x-source-editable": "false",
-              children: " "
-            }, void 0, false), "and finding ways to improve it. At Intellipaat, I learned how to communicate complex ideas to different audiences."]
-          }, void 0, true, {
+            children: "Customer Success interests me because I've realised that one of the things I enjoy most across different roles is working closely with people, understanding what they're trying to achieve, and figuring out how I can help them get there."
+          }, void 0, false, {
             fileName: _jsxFileName,
             lineNumber: 11,
             columnNumber: 25
@@ -2303,7 +2260,7 @@ function Pitch() {
             "x-component": "p",
             "x-id": "Pitch_21_24",
             "x-dynamic": "false",
-            children: "At Aviva, I worked closely with a team and understood how much individual people and their needs matter. At BrandAid, I turned client requirements into ideas and experiences, and at DolzeAI, I got closer to the business side of things \u2014 understanding client goals, experimenting with content, studying what resonated and identifying opportunities to improve how things worked."
+            children: "At Aviva, I learned the importance of understanding individual customers and building trust. At BrandAid, I worked directly with clients to understand their requirements and turn them into experiences. At DolzeAI, I work closely with business owners, understand their goals, identify what they need, and help turn those conversations into practical marketing strategies and execution."
           }, void 0, false, {
             fileName: _jsxFileName,
             lineNumber: 21,
@@ -2316,7 +2273,7 @@ function Pitch() {
             "x-component": "p",
             "x-id": "Pitch_29_24",
             "x-dynamic": "false",
-            children: "Each experience showed me a different side of growth. I'm interested in taking that further: understanding what helps a business move forward, combining creativity with practical thinking, and being involved in making that progress happen."
+            children: "What draws me to Customer Success is the opportunity to build relationships beyond a single interaction. I enjoy taking ownership, solving problems, keeping people on the same page, and making sure things actually move forward. I see Customer Success as a role where I can bring together my communication, creativity, and problem-solving skills while continuing to learn from the people I work with."
           }, void 0, false, {
             fileName: _jsxFileName,
             lineNumber: 29,
