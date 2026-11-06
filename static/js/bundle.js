@@ -416,9 +416,6 @@ const LINKS = [{
   label: "The Thread",
   hash: "#thread"
 }, {
-  label: "Wispr Flow",
-  hash: "#wispr"
-}, {
   label: "Contact",
   hash: "#contact"
 }];
@@ -6440,18 +6437,7 @@ function Home() {
       fileName: _jsxFileName,
       lineNumber: 32,
       columnNumber: 13
-    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxDEV)(_components_home_WisprFlow__WEBPACK_IMPORTED_MODULE_8__["default"], {
-      "x-file-name": "Home",
-      "x-line-number": "33",
-      "x-column": "12",
-      "x-component": "WisprFlow",
-      "x-id": "Home_33_12",
-      "x-dynamic": "true"
-    }, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 33,
-      columnNumber: 13
-    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxDEV)(_components_home_ContactSection__WEBPACK_IMPORTED_MODULE_9__["default"], {
+    }, /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxDEV)(_components_home_ContactSection__WEBPACK_IMPORTED_MODULE_9__["default"], {
       "x-file-name": "Home",
       "x-line-number": "34",
       "x-column": "12",
