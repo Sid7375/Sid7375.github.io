@@ -6437,7 +6437,7 @@ function Home() {
       fileName: _jsxFileName,
       lineNumber: 32,
       columnNumber: 13
-    }, /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxDEV)(_components_home_ContactSection__WEBPACK_IMPORTED_MODULE_9__["default"], {
+    }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxDEV)(_components_home_ContactSection__WEBPACK_IMPORTED_MODULE_9__["default"], {
       "x-file-name": "Home",
       "x-line-number": "34",
       "x-column": "12",
